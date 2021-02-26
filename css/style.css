@@ -1,0 +1,42 @@
+body {
+    background-color: rgb(182, 182, 182);
+    background-image: url("https://img.wallpapersafari.com/desktop/1600/900/52/71/uw73tJ.jpg");
+    padding-top:10px;
+    background-repeat: no-repeat;
+    background-size:1000%;
+}
+
+a {
+    color:rgb(182, 182, 182);
+}
+
+
+.carousel {
+  margin-top: .5em;
+  margin-bottom: .5em;
+  }
+
+  .text-center {
+      color:white;
+      
+  }
+
+   .jumbotron {
+    background-color:rgba(61, 60, 60, 0.726);
+    color:rgb(253, 246, 246);
+  }
+ 
+
+  .card {
+      background-color:rgba(211, 0, 0, 0.5);
+  }
+
+  h5 {
+      color:rgb(253, 246, 246);
+      letter-spacing: 1px;
+  }
+
+  p {
+      color:rgb(253, 246, 246);
+      letter-spacing: .5px;
+  }
