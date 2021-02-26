@@ -2,8 +2,10 @@ body {
     background-color: rgb(182, 182, 182);
     background-image: url("https://img.wallpapersafari.com/desktop/1600/900/52/71/uw73tJ.jpg");
     padding-top:10px;
-    background-repeat: no-repeat;
-    background-size:1000%;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover
 }
 
 a {
@@ -28,7 +30,9 @@ a {
  
 
   .card {
-      background-color:rgba(211, 0, 0, 0.5);
+      background-color:rgba(172, 4, 4, 0.705);
+      display: flex;
+      flex-wrap: wrap;
   }
 
   h5 {
